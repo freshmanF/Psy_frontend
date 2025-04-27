@@ -1,0 +1,2 @@
+Psy_frontend是心理大模型的前端
+需要先运行npm install下载依赖
